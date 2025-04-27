@@ -18,8 +18,3 @@ Para executar o programa basta estar na pasta do projeto e executar o seguinte c
 ```bash
   java -cp bin edu.sudokuDio.Main
 ```
-<<<<<<< HEAD
-    
-=======
-    
->>>>>>> e31917d3ada676dcfc2a71a46ac3cb263ed432fd
